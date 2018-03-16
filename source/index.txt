@@ -55,6 +55,7 @@ Contents:
    builder
    objects
    application
+   shortcuts
 
 .. toctree::
    :caption: Deprecated

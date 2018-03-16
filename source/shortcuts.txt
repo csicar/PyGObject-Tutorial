@@ -1,0 +1,18 @@
+ShortcutsWindow
+===============
+
+A `Gtk.ShortcutsWindow` is a window displaying brief information about the 
+keyboard shortcuts and gestures.
+
+Example
+-------
+
+.. literalinclude:: ../examples/shortcuts_example.py
+    :linenos:
+
+
+See also
+--------
+
+- https://lazka.github.io/pgi-docs/index.html#Gtk-3.0/classes/ShortcutsWindow.html
+- https://developer.gnome.org/gtk3/stable/GtkShortcutsWindow.html
